@@ -1,0 +1,23 @@
+{
+  "name": "term",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btnguyenPersonal/term.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btnguyenPersonal/term/issues"
+  },
+  "homepage": "https://github.com/btnguyenPersonal/term#readme",
+  "devDependencies": {
+    "electron": "^27.1.2"
+  }
+}
